@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: Costumer-churn-prediction
-Version: 0.0.1
-Summary: Machine Learning Project to predict customer churn
-Author: Arjun Dadhich
-Author-email: arjun.dadhich004@gmail.com
-Dynamic: author
-Dynamic: author-email
-Dynamic: summary

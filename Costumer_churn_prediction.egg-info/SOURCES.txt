@@ -1,5 +1,0 @@
-setup.py
-Costumer_churn_prediction.egg-info/PKG-INFO
-Costumer_churn_prediction.egg-info/SOURCES.txt
-Costumer_churn_prediction.egg-info/dependency_links.txt
-Costumer_churn_prediction.egg-info/top_level.txt
