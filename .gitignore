@@ -1,3 +1,11 @@
 env/
 *.egg-info/
 logs/
+*.log
+.env
+build/
+dist/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
