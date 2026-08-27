@@ -6,4 +6,5 @@ seaborn
 flask
 xgboost
 joblib
+streamlit
 -e .
